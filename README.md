@@ -1,11 +1,7 @@
-## My Project
+## Automated CloudWatch alarm reporting system
 
-TODO: Fill this README out!
+![Cloudwatch_alarm_observability_last24hour_V02](https://github.com/aws-samples/automated-cloudwatch-alarm-reporting-system/assets/33568504/80e2e8f9-3201-4868-8ba6-95b093bb81b7)
 
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
 
 ## Security
 
